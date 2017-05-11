@@ -6,3 +6,8 @@ Quick notes for csharp and getting started
 
 
 [Data Structures](https://msdn.microsoft.com/en-US/library/ms379571.aspx "Data Structures")
+
+
+A NEW ONE
+
+
